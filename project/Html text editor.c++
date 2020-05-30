@@ -16,7 +16,7 @@ class HTML{
 		i=Prefisso;
 		t=Testa;
 		c=Corpo;
-		p=Piedi;
+		p=Piedi; // why dont u use english? :/
 		fp=finePrefisso;
 		
 		cout<<i<<endl;
